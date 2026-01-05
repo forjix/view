@@ -113,4 +113,4 @@ Hello, {{ $name }}!
 
 ## License
 
-MIT
+GPL-3.0
